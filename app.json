@@ -30,7 +30,7 @@
         },
         "REDIS_URI": {
             "description": "Redis endpoint URL, from redislabs.com",
-            "value": ""
+            "value": "redis-18855.c309.us-east-2-1.ec2.redns.redis-cloud.com:18855"
         },
         "REDIS_PASSWORD": {
             "description": "Redis endpoint password, from redislabs.com",
